@@ -1,0 +1,1 @@
+Still not sure if I'll spin this off and focus on it. For now you can use the tutorial integration between Ring and Ecobee in my tutorials repo [https://github.com/rogerfitz/tutorials/tree/master/ring_ecobee](https://github.com/rogerfitz/tutorials/tree/master/ring_ecobee)
